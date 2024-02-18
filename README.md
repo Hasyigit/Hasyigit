@@ -1,5 +1,5 @@
 <p align="center">
-👋 Hi, I’m @Hasyigit <br>
+👋 Hi, I’m @Webotagi.com <br>
 👀 I’m interested in Frontend Development <br>
 🌱 I’m currently learning JS, HTML5, CSS3 <br>
 💞️ I’m looking to internship that improve myself <br>
